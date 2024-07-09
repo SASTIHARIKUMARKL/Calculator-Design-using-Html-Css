@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.calcu{
+    height: 485px;
+    width: 330px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    margin-bottom: 80px;
+    background-color: aqua;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+}
+.calcu table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td{
+    border: none;
+    height: 80px;
+    width: 80px;
+    background-color: white;
+    
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    font-size: 23px;
+}
